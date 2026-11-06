@@ -1,1 +1,1 @@
-
+CHANGELOG – PORTFOLIO CÁ NHÂN V8 – 05/11/2026 Những thay đổi so với V7 Hoàn thiện giao diện Portfolio cá nhân. Cập nhật nội dung giới thiệu bản thân. Bổ sung hình ảnh và thông tin cá nhân. Hoàn thiện bố cục HTML và CSS. Kiểm tra và chỉnh sửa các liên kết trên website. Triển khai website bằng GitHub Pages. Công nghệ sử dụng HTML5 CSS3 GitHub GitHub Pages Trạng thái kiểm tra Chưa kiểm tra.
